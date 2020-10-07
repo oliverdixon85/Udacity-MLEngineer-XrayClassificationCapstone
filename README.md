@@ -32,3 +32,7 @@ Python libraries required:
 - keras
 - sagemaker
 - scikitplot
+
+Results 
+Accuracy 90%      Validation Accuracy 89.26%
+F1 Score 91.03%   Validation F1 Score 91.08%
